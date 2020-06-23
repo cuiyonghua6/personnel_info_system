@@ -8,4 +8,6 @@
 
 #### 项目运行截图如下
 
-![Image_text](https://github.com/cuiyonghua6/personnel_info_system/images/20200623095634.png)
+![Image_text](https://github.com/cuiyonghua6/personnel_info_system/blob/master/images/20200623095634.png)
+
+
