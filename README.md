@@ -1,0 +1,2 @@
+# personnel_info_system
+用flask+mongodb搭建的一个人员管理系统
